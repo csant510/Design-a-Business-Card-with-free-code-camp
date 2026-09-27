@@ -1,6 +1,7 @@
 # Design a Business Card with Free Code Camp
 
-Build a Design a Business Card Form focusing on CSS. This is a form from Free Code Camp focusing on HTML and CSS while making the form responsive. Below is a screenshot of the form. [view]([Clickable Text](https://www.example.com)
+Build a Design a Business Card Form focusing on CSS. This is a form from Free Code Camp focusing on HTML and CSS while making the form responsive. Below is a screenshot of the form.[view](https://csant510.github.io/Design-a-Business-Card-with-free-code-camp/)
+
 
 
 
